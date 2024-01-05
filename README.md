@@ -41,10 +41,10 @@ This project aims to forecast retail sales predict department-wide sales for eac
 ![Tableau dashbord](https://github.com/Viswanathan25/Retail_sales_final-Project/assets/131848906/f28d2557-c47d-41b6-b4cc-ffd7cbb6144d)
 
 
-**Vist Dashbord**
-https://public.tableau.com/app/profile/viswanthan.sankaran/viz/Retail_Sales_Forecast/Dashboard1?publish=yes
+[Vist Dashbord](https://public.tableau.com/app/profile/viswanthan.sankaran/viz/Retail_Sales_Forecast/Dashboard1?publish=yes)
 
 ## Contributing
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-**connect** 
-Linkedin: https://www.linkedin.com/in/viswanathan-sankaran-vis25
+
+## connect 
+[Linkedin](https://www.linkedin.com/in/viswanathan-sankaran-vis25)
