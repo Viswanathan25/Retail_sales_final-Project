@@ -31,7 +31,7 @@ This project aims to forecast retail sales predict department-wide sales for eac
 
 **Skewness** - Feature Scaling: Skewness is a common challenge in datasets. Identifying skewness in the data is essential, and appropriate data transformations must be applied to mitigate it. One widely used method is the log transformation, which is particularly effective in addressing high skewness in continuous variables. This transformation helps achieve a more balanced and normally distributed dataset, which is often a prerequisite for many machine learning algorithms.
 
-# Regression Alogorthim
+# Regression Algorithm
 **Algorithm Assessment:** In the realm of regression, our primary objective is to predict the continuous variable of weekly price. Our journey begins by splitting the dataset into training and testing subsets. We systematically apply various algorithms, evaluating them based on training and testing accuracy using the R2 (R-squared) metric, which signifies the coefficient of determination. This process allows us to identify the most suitable base algorithm tailored to our specific data.
 
 **Algorithm Selection:** After a thorough evaluation, Random Forest Regressor, emerges with commendable testing accuracy. However, it strikes a balance between interpretability and accuracy, making it a fitting choice. to predict WeeklySales
